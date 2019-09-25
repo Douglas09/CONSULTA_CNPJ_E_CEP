@@ -1,3 +1,8 @@
+{ Since Douglas Colombo
+  2019-09-25
+  Versão 1.0.1
+}
+
 unit UConsultar_WEBSERVICE;
 
 interface
